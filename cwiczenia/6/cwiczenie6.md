@@ -1,4 +1,4 @@
-# Cwiczenie 5
+# Cwiczenie 6
 
 ## Cel
 Zapoznanie się z grafana hosting jako alternatywą rozwiązania "self hosting".
